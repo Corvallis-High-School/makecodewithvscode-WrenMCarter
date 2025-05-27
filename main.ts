@@ -28,9 +28,11 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
 /*
  *Main program
  */
+// List of images
 list = [
 assets.image`myCat`,
 assets.image`mySnake`,
 assets.image`myShroom`,
 assets.image`myDonut`
 ]
+
